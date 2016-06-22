@@ -1,3 +1,4 @@
+baseurl: https://luminousbees.github.io
 encoding: utf-8
 permalink: ./:year/:month/:title/
 
@@ -9,3 +10,11 @@ gems:
   - jekyll-gist
 
 markdown: kramdown
+
+lib:
+  semantic:
+    baseurl: https://cdnjs.cloudflare.com/ajax/libs/semantic-ui
+    version: 2.1.8
+  jquery:
+    baseurl: https://code.jquery.com
+    version: 3.0.0
