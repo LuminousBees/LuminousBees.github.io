@@ -17,4 +17,4 @@ lib:
     version: 2.2.2
   jquery:
     baseurl: https://code.jquery.com
-    version: 3.0.0
+    version: 2.1.4
