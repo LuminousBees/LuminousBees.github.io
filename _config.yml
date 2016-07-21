@@ -1,4 +1,4 @@
-baseurl: https://luminousbees.github.io
+baseurl: http://luminousbe.es
 encoding: utf-8
 permalink: ./:year/:month/:title/
 
