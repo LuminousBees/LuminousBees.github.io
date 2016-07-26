@@ -1,4 +1,4 @@
-baseurl: http://luminousbe.es
+domain: luminousbe.es
 encoding: utf-8
 permalink: ./:year/:month/:title/
 
