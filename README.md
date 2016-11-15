@@ -1,2 +1,2 @@
 # LuminousBees.github.io
-Robotics for arts
+Aerial Media Arts
